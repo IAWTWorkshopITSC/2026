@@ -2,6 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header .project-name {
+  font-size: 2rem;   // smaller than default
+  font-weight: 600;
+}
+
+.page-header .project-tagline {
+  font-size: 1.5rem; // bigger than default
+  font-weight: 500;
+  opacity: 1;        // remove faded look
+}
 .main-content {
   text-align: justify;
   table {
