@@ -1,6 +1,6 @@
 ## Aim of the workshop
 
-The **5th Workshop on Intelligent and Automated Waterway Transportation** will take place at the IEEE ITSC 2026 conference.
+The **5th Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 15th, 2026 at the IEEE International Conference on Intelligent Transportation Systems in Naples, Italy, brings together researchers, industry experts, and practitioners to discuss the latest advances in autonomous shipping, intelligent water-based logistics, and related topics.
 
 Presentations by invited experts will provide exciting insights into recent research achievements and innovative projects. Additionally, researchers will have the opportunity to present their work and exchange ideas with the community.
 
