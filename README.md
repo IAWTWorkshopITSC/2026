@@ -1,3 +1,12 @@
+<!-- <br>
+<h3 align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSegqE_srBeCVRJyyzYTrg0mcZAQsLEN1gQThHxMP2hL7_fXgQ/viewform?usp=header" style="font-size: 1.2em; font-weight: bold; background-color: #cf5c04; padding: 15px 30px; border-radius: 8px; text-decoration: none; color: white;">
+    Call for Contributions
+  </a>
+</h3>
+<br>
+
+-->
 ## Aim of the workshop
 
 The **5th Workshop on Intelligent and Automated Waterway Transportation**, which will take place on September 15th, 2026 at the IEEE International Conference on Intelligent Transportation Systems in Naples, Italy, brings together researchers, industry experts, and practitioners to discuss the latest advances in autonomous shipping, intelligent water-based logistics, and related topics.
