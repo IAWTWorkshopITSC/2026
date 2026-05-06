@@ -24,29 +24,28 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 
 <br />
 <br />
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; width: 100%;">
   
-  <!-- Left -->
-  <a style="text-decoration: none;" href="https://www.dst-org.de/en/" target="_blank">
-    <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" height="60"> 
+  <!-- First Row -->
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.dst-org.de/en/" target="_blank">
+    <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" style="height: 60px; width: auto;"> 
   </a>
 
-  <!-- Center -->
-  <a style="text-decoration: none;" href="https://www.schotteautomotive.com/" target="_blank">
-    <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" height="75"> 
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.schotteautomotive.com/" target="_blank">
+    <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" style="height: 75px; width: auto;"> 
   </a>
 
-  <a style="text-decoration:none" href="https://www.baw.de/en/home/home.html" target="_blank">
-    <img src="BAW_kurz_blau_RGB.png" alt="BAW" float="left" height="75"/> 
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.baw.de/en/home/home.html" target="_blank">
+    <img src="BAW_kurz_blau_RGB.png" alt="BAW" style="height: 75px; width: auto;"/> 
   </a>
 
-  <!-- Right -->
-  <a style="text-decoration: none;" href="https://www.uni-due.de/en/index.php" target="_blank">
-    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" height="60"> 
+  <!-- Second Row -->
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.uni-due.de/en/index.php" target="_blank">
+    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" style="height: 60px; width: auto;"> 
   </a>
 
-  <a style="text-decoration: none;" href="https://www.sintef.no/en/" target="_blank">
-    <img src="Outlook-SINTEF log.png" alt="SINTEF" height="60"> 
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.sintef.no/en/" target="_blank">
+    <img src="Outlook-SINTEF log.png" alt="SINTEF" style="height: 60px; width: auto;"> 
   </a>
 
 </div>
