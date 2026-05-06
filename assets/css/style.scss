@@ -18,7 +18,7 @@
   font-size: 14px;
   }
 }
-
+$italy-white: #F4F9FF;
 $italy-green: #008C45;
 $italy-red: #CD212A;
 
@@ -29,7 +29,7 @@ $italy-red: #CD212A;
   background-image: linear-gradient(
     120deg,
     $italy-green,
-    #ffffff,
+    $italy-white,
     $italy-red
   );
   color: #222;
