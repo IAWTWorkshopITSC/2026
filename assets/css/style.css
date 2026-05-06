@@ -18,20 +18,24 @@
   background-image: linear-gradient(120deg, #009246, #ce2b37);
   /* background-image: linear-gradient(120deg, #009246, #ffffff, #ce2b37); */
 }
+$italy-green: #009246;
+$italy-red: #ce2b37;
+
 .main-content h1,
 .main-content h2,
 .main-content h3,
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #cf5c04;
+  color: $italy-green;
 }
+
 a {
-  color: #cf5c04; 
+  color: $italy-green;
   text-decoration: none;
 }
 
 a:hover {
-  color: #cf5c04; 
-  text-decoration: underline; 
+  color: $italy-red;
+  text-decoration: underline;
 }
