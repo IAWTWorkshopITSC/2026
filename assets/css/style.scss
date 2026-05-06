@@ -12,8 +12,10 @@
   color: #fff;
   text-align: center;
   background-color:#e85c05;
-  background-image: linear-gradient(120deg, #009246, #ce2b37);
+  background-image: linear-gradient(120deg, #009246, #ce2b37); 
   /* background-image: linear-gradient(120deg, #009246, #ffffff, #ce2b37); */
+  color: #222;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.4);
 }
 
 $italy-green: #009246;
