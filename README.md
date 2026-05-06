@@ -20,6 +20,7 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 * [Dr. Hanna Krasowski](https://hanna.krasowski.io/), University of California, Berkeley, CA, United States 
 * [Kathrin Donandt](https://www.uni-due.de/srs/person.php?Id=147), University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
 * [Dr. Frédéric Etienne Kracht](https://www.linkedin.com/in/frederickracht), Development Center for Ship Technology and Transport Systems e. V. (DST), Germany
+* [Lars Andreas Lien Wennersberg](https://www.sintef.no/en/all-employees/employee/lars.andreas.wennersberg/), SINTEF, Norway
 
 <br />
 <br />
@@ -42,6 +43,10 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
   <!-- Right -->
   <a style="text-decoration: none;" href="https://www.uni-due.de/en/index.php" target="_blank">
     <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" height="60"> 
+  </a>
+
+  <a style="text-decoration: none;" href="https://www.sintef.no/en/" target="_blank">
+    <img src="Outlook-SINTEF log.png" alt="SINTEF" height="60"> 
   </a>
 
 </div>
