@@ -50,7 +50,7 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 
   <!-- Second Row -->
   <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.uni-due.de/en/index.php" target="_blank">
-    <img src="logo_claim_72dpi_rgb_200.jpg" alt="UDE" style="height: 60px; width: auto;"> 
+    <img src="UDE-logo-claim.svg" alt="UDE" style="height: 60px; width: auto;"> 
   </a>
 
   <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.sintef.no/en/" target="_blank">
