@@ -104,11 +104,11 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 
 ## Previous workshops
 
-👉 [4th Workshop on Intelligent and Automated Waterway Transportation](https://iawtworkshopitsc.github.io/2025/) at the 2025 ITSC in Gold Coast, Australia
-<br />
-👉 <a href="https://iawtworkshopitsc.github.io/2024/" target="_blank" rel="noopener noreferrer">3rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2024 ITSC in Edmonton, Canada
-
-
+<ul class="hand-list">
+<li><a href="https://iawtworkshopitsc.github.io/2025/" target="_blank" rel="noopener noreferrer">4rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2025 ITSC in Gold Coast, Australia
+</li>
+<li><a href="https://iawtworkshopitsc.github.io/2024/" target="_blank" rel="noopener noreferrer">3rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2024 ITSC in Edmonton, Canada</li>
+</ul>
 
 <br />
 <br />
