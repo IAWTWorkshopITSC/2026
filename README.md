@@ -54,8 +54,6 @@ Please note: This schedule is tentative and subject to change.
 
 ## About the invited speakers
 
-## Invited experts
-
 ### <a id="schramm"></a>[Dr. Dieter Schramm](https://www.uni-due.de/mechatronik/team/schramm.php)
 
 <img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Dieter is Senior Professor at the University of Duisburg-Essen. He graduated in mathematics at the University of Stuttgart in 1981, worked there from 1981-1986 as a research assistant and received his PhD in Engineering in 1986. From 1986-1998 he worked at Robert Bosch GmbH as group leader and department head of predevelopment and series development departments for automotive systems. He joined Tyco Electronics Ltd. in 1999 and held the positions of Director Global Automotive Engineering and later CEO of Tyco Electronics Pretema GmbH until 2003. In 2004 he was appointed Full Professor and head of the Chair of Mechatronics at the University of Duisburg-Essen and since 2006 elected Dean of the Faculty of Engineering. In 2015 he was awarded Dr. h.c. by the University of Miskolc, Hungary. His current research interests are electrified and highly automated automobiles and ships, vehicle dynamics and cable driven and cooperative robots. Along with his research activities he is director and partner of several companies in the field of research and post graduated education in Germany and South East Asia.
