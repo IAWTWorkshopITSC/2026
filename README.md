@@ -9,7 +9,11 @@
 -->
 ## Aim of the workshop
 
-The **5th Workshop on Intelligent and Automated Waterway Transportation**,  which will take place on September 15th, 2026 at the [IEEE International Conference on Intelligent Transportation Systems](https://ieee-itsc.org/2026/) in Naples, Italy, aims to foster technical and scientific exchange between academia, industry, and public authorities in the rapidly evolving fields of autonomous waterborne transportation and smart intermodal logistics. It serves as a platform to present and discuss recent advancements in intelligent and automated systems for inland, coastal and off-shore maritime transportation. Key topics include autonomous vessel development, advanced assistance systems, modeling and simulation, digital twins for waterways, navigation and control strategies, as well as automation of cargo handling. By bringing together experts from research institutions, industry leaders, consultants, and regulatory bodies, the workshop encourages interdisciplinary dialogue and collaboration. As an integral part of the broader Intelligent Transport Systems (ITS) community, the workshop emphasizes the role of autonomous shipping in shaping the future of transportation. 	 
+The **5th Workshop on Intelligent and Automated Waterway Transportation**,  which will take place on September 15th, 2026 at the 
+<a href="https://ieee-itsc.org/2026/" target="_blank" rel="noopener noreferrer">
+  IEEE International Conference on Intelligent Transportation Systems
+</a>
+in Naples, Italy, aims to foster technical and scientific exchange between academia, industry, and public authorities in the rapidly evolving fields of autonomous waterborne transportation and smart intermodal logistics. It serves as a platform to present and discuss recent advancements in intelligent and automated systems for inland, coastal and off-shore maritime transportation. Key topics include autonomous vessel development, advanced assistance systems, modeling and simulation, digital twins for waterways, navigation and control strategies, as well as automation of cargo handling. By bringing together experts from research institutions, industry leaders, consultants, and regulatory bodies, the workshop encourages interdisciplinary dialogue and collaboration. As an integral part of the broader Intelligent Transport Systems (ITS) community, the workshop emphasizes the role of autonomous shipping in shaping the future of transportation. 	 
 
 ## Workshop schedule
 
@@ -87,6 +91,11 @@ _Title of talk: A data driven approach to quantify safety and ease of navigation
 Members of industry, research, consultancy and public authorities in the field of autonomous shipping, intelligent water-based logistics and related topics are the target audience of this workshop.
 
 Please make sure to register for the ITSC Workshop Day in order to be able to participate.
+
+## Previous workshops
+
+- [4th Workshop on Intelligent and Automated Waterway Transportation](https://iawtworkshopitsc.github.io/2025/) at the 2025 ITSC in Gold Coast, Australia
+- <a href="https://iawtworkshopitsc.github.io/2024/" target="_blank" rel="noopener noreferrer">3rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2024 ITSC in Edmonton, Canada
 
 ## Organizers
 
