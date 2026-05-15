@@ -23,7 +23,6 @@ The **5th Workshop on Intelligent and Automated Waterway Transportation**,  whic
 </colgroup>
 
 <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th></tr>
-<tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th></tr>
 <tbody> 
 
 <tr><td>09:30–09:35</td><td align="center" colspan="3"><em>Opening</em></td></tr> 
