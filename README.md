@@ -7,6 +7,15 @@
 <br>
 
 -->
+<div class="custom-header">
+  <img src="vesuviostilizzatoexpanded.png" alt="Vesuvio logo" class="header-logo" />
+  <div class="header-title">
+    <h1>5th Workshop on Intelligent and Automated Waterway Transportation</h1>
+    <p>IEEE ITSC, Naples, Italy, September 15, 2026</p>
+  </div>
+  <img src="IEEE-Logo-600-200x59.png" alt="IEEE logo" class="header-logo" />
+</div>
+
 ## Aim of the workshop
 
 The **5th Workshop on Intelligent and Automated Waterway Transportation**,  which will take place on September 15th, 2026 at the 
