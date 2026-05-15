@@ -48,3 +48,9 @@ a:hover {
   color: $italy-red;
   text-decoration: underline;
 }
+
+ul.hand-list li::marker {
+  content: "👉";      /* or ► */
+  color: #008C45;     /* Italian green */
+  font-size: 1.2em;
+}
