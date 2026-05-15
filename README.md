@@ -63,18 +63,19 @@ Please note: This schedule is tentative and subject to change.
 
 _Title of talk: Automation of transport systems on land and waterways_
 
+### <a id="luebke"></a>[Michael Lübke](https://www.linkedin.com/in/michaelluebke)
+
+<img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Michael is Group Operations Manager at Evos, one of Europe's largest tank storage operator managing critical energy infrastructure across major port locations. With an academic background in engineering and sociology, he combines technical system design with human-centered operational leadership. His work focuses on harmonising operating models across terminals, strengthening safety culture, and integrating intelligent digital systems into multimodal energy logistics. Tank terminals sit at the intersection of land- and waterside transport: connecting vessels, rail, trucks and pipeline systems into a single operational network. As Europe transitions toward hydrogen, ammonia, CO₂ and low-carbon fuels, this infrastructure must evolve into intelligent, semi-autonomous, and cross-border systems. Michael advocates for a systemic view of transport and energy infrastructure—thinking beyond modal silos and national boundaries—to enable safe, scalable and digitally integrated energy logistics for the next decades. 
+
+_Title of talk: Beyond Mobility: Intelligent Multimodal Transport Systems for Critical Energy Infrastructure_
+
+
 ### <a id="goerlandt"></a>[Dr. Floris Goerlandt](https://www.dal.ca/faculty/engineering/industrial/faculty-staff/our-faculty1/associate-professors/Goerlandt.html)
 
 <img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Floris is Associate Professor in Dalhousie University, Canada, where he holds the Canada Research Chair (Tier 2) in Risk Management and Resource Optimization for Marine Industries. He received a degree of Doctor of Science (Tech.) from Aalto University, Finland, and has Master of Science degrees from Ghent University and Antwerp University, Belgium. He primarily works on applied risk research, developing methods and techniques to support risk analysis, management, and governance of maritime activities. He currently works on remote pilotage, maritime Search and Rescue, and risk management in seaports. Apart from applied research, he also has a keen interest in fundamental questions in safety science, with a current focus on the validation of risk and safety analysis techniques. Dr. Goerlandt serves on the Editorial Board of the Safety Science and Risk Analysis journals, and currently leads a special issue on Risk and Resilience in Crisis and Emergency Management. He contributes to the activities of the Working Group on Waterway Risk Management of the International Association for Aids to Navigation and is board member of the Canadian Maritime Shipping Risk Forum community of practice. He strives to promote academic insights into risk analysis, management, and governance practices in maritime industrial and policy contexts.	 
 
 _Title of talk: Navigating uncertainty: Safety risk modeling and validation for remote pilotage_
 
-
-### <a id="luebke"></a>[Michael Lübke](https://www.linkedin.com/in/michaelluebke)
-
-<img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Michael is Group Operations Manager at Evos, one of Europe's largest tank storage operator managing critical energy infrastructure across major port locations. With an academic background in engineering and sociology, he combines technical system design with human-centered operational leadership. His work focuses on harmonising operating models across terminals, strengthening safety culture, and integrating intelligent digital systems into multimodal energy logistics. Tank terminals sit at the intersection of land- and waterside transport: connecting vessels, rail, trucks and pipeline systems into a single operational network. As Europe transitions toward hydrogen, ammonia, CO₂ and low-carbon fuels, this infrastructure must evolve into intelligent, semi-autonomous, and cross-border systems. Michael advocates for a systemic view of transport and energy infrastructure—thinking beyond modal silos and national boundaries—to enable safe, scalable and digitally integrated energy logistics for the next decades. 
-
-_Title of talk: Beyond Mobility: Intelligent Multimodal Transport Systems for Critical Energy Infrastructure_
 
 ### <a id="daubner"></a>[Jannis Daubner](https://www.linkedin.com/in/jannis-daubner-608270258)
 
