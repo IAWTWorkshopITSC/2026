@@ -92,10 +92,6 @@ Members of industry, research, consultancy and public authorities in the field o
 
 Please make sure to register for the ITSC Workshop Day in order to be able to participate.
 
-## Previous workshops
-
-- [4th Workshop on Intelligent and Automated Waterway Transportation](https://iawtworkshopitsc.github.io/2025/) at the 2025 ITSC in Gold Coast, Australia
-- <a href="https://iawtworkshopitsc.github.io/2024/" target="_blank" rel="noopener noreferrer">3rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2024 ITSC in Edmonton, Canada
 
 ## Organizers
 
@@ -104,6 +100,15 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 * [Kathrin Donandt](https://www.uni-due.de/srs/person.php?Id=147), University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
 * [Dr. Frédéric Etienne Kracht](https://www.linkedin.com/in/frederickracht), Development Center for Ship Technology and Transport Systems (DST), Germany
 * [Dr. Lars Andreas Lien Wennersberg](https://www.sintef.no/en/all-employees/employee/lars.andreas.wennersberg/), SINTEF, Norway
+
+
+## Previous workshops
+
+👉 [4th Workshop on Intelligent and Automated Waterway Transportation](https://iawtworkshopitsc.github.io/2025/) at the 2025 ITSC in Gold Coast, Australia
+<br />
+👉 <a href="https://iawtworkshopitsc.github.io/2024/" target="_blank" rel="noopener noreferrer">3rd Workshop on Intelligent and Automated Waterway Transportation </a> at the 2024 ITSC in Edmonton, Canada
+
+
 
 <br />
 <br />
