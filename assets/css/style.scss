@@ -53,4 +53,6 @@ ul.hand-list li::marker {
   content: "👉";      /* or ► */
   color: #008C45;     /* Italian green */
   font-size: 1.2em;
+  width: 1.5em;      /* space between hand and text */
+    margin-right: 0.5em; /* extra gap if needed */
 }
