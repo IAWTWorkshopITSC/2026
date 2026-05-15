@@ -16,10 +16,10 @@ The **5th Workshop on Intelligent and Automated Waterway Transportation**,  whic
 <table style="text-align:left;"> 
 
 <colgroup>
-  <col style="width:10%;">
-  <col style="width:50%;">
-  <col style="width:20%;">
-  <col style="width:20%;">
+  <col style="width:15%;">
+  <col style="width:35%;">
+  <col style="width:15%;">
+  <col style="width:35%;">
 </colgroup>
 
 <tr><th>Time</th><th>Title</th><th>Speaker</th><th>Affiliation</th></tr>
