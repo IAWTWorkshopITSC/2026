@@ -76,7 +76,7 @@ _Title of talk: Navigating uncertainty: Safety risk modeling and validation for 
 
 ### <a id="daubner"></a>[Jannis Daubner](https://www.linkedin.com/in/jannis-daubner-608270258)
 
-<img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> 
+<img src="Andreas800.png" alt="" align="left" width="140" style="vertical-align:middle;margin:0px 25px 0px 0px"/> Jannis earned his master’s degree in mechanical engineering from the Karlsruher Institute of Technology (KIT), Germany. He is currently a researcher at the Federal Waterways Engineering and Research Institute (BAW), Germany. His research interests lie primarily in the field of autonomous driving of inland waterway vessels based on artificial intelligence. He coordinates and contributes to collaborative projects with the German Aerospace Center (DLR) and the Federal Waterways and Shipping Administration (WSV), focusing on traffic analysis and optimization.
 
 _Title of talk: A data driven approach to quantify safety and ease of navigation of highly automated inland waterway vessels_
 
