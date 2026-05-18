@@ -133,19 +133,19 @@ ul.hand-list li::marker {
 }
 
 
-{% if site.logo_url %}
-.project-tagline::after {
-    content: " ";
-    display: block;
-    width: 120px;
-    height: 120px;
-    padding-right: 0.5em;
-    vertical-align: middle;
-    background: url("{{site.logo_url}}");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    margin: 0.8rem auto 0 auto; /* <-- this centers it */
-
+.project-tagline {
+  margin-bottom: 0.2rem;
 }
-{% endif %}
+
+.project-tagline::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 0.3rem auto 0 auto;
+
+  background: url("{{site.logo_url}}");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
