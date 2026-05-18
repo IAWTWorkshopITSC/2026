@@ -136,9 +136,9 @@ ul.hand-list li::marker {
 {% if site.logo_url %}
 .project-tagline::after {
     content: " ";
-    display: inline-block;
-    width: 0.9em;
-    height: 0.9em;
+    display: block;
+    width: 120px;
+    height: 120px;
     padding-right: 0.5em;
     vertical-align: middle;
     background: url("{{site.logo_url}}");
