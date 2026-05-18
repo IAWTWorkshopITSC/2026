@@ -100,7 +100,7 @@ ul.hand-list li::marker {
 /* Text block */
 .header-text h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.2;
   color: $italy-green;
 }
@@ -144,8 +144,8 @@ ul.hand-list li::marker {
 }
 
 .page-header {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .project-tagline::after {
