@@ -16,6 +16,15 @@
   <img src="IEEE-Logo-600-200x59.png" alt="IEEE logo" class="header-logo" />
 </div> -->
 
+<div class="header-with-logo">
+  <img src="vesuviostilizzatoexpanded.png" alt="Workshop Logo" class="workshop-logo">
+
+  <div class="header-text">
+    <h1>5th Workshop on Intelligent and Automated Waterway Transportation</h1>
+    <h2>IEEE ITSC, Naples, Italy, September 15, 2026</h2>
+  </div>
+</div>
+
 ## Aim of the workshop
 
 The **5th Workshop on Intelligent and Automated Waterway Transportation**,  which will take place on September 15th, 2026 at the 
