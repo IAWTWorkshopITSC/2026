@@ -65,7 +65,7 @@ in Naples, Italy, aims to foster technical and scientific exchange between acade
 <td><a href="#luebke">Michael Lübke</a></td>
 <td>Evos, Germany</td></tr> 
 
-<tr><td>10:35–10:45</td><td align="center" colspan="3"><em>Coffee Break</em></td></tr> 
+<tr><td>10:35–10:45</td><td align="center" colspan="3"><em>Break</em></td></tr> 
 
 <tr><td>10:45–11:15</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage</td>
 <td><a href="#goerlandt">Dr. Floris Goerlandt</a></td>
@@ -145,7 +145,7 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
     <img src="rz_logo_dst_cmyk_100_66_0_2_02.svg" alt="DST" style="height: 60px; width: auto;"> 
   </a>
 
-  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.schotteautomotive.com/" target="_blank">
+  <a style="text-decoration: none; display: flex; align-items: center;" href="https://www.schottetechnologies.com/" target="_blank">
     <img src="Schotte_Tec_Logo.png" alt="SCHOTTE" style="height: 75px; width: auto;"> 
   </a>
 
