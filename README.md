@@ -16,7 +16,7 @@
   <img src="IEEE-Logo-600-200x59.png" alt="IEEE logo" class="header-logo" />
 </div> -->
 
-<div class="header-with-logo">
+<!-- <div class="header-with-logo">
   <div class="logo-group">
     <img src="vesuviostilizzatoexpanded.png"
          alt="Workshop Logo"
@@ -31,6 +31,7 @@
     <h2>IEEE ITSC, Naples, Italy, September 15, 2026</h2>
   </div>
 </div>
+-->
 
 ## Aim of the workshop
 
