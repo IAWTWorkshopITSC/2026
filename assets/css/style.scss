@@ -140,9 +140,9 @@ ul.hand-list li::marker {
 .project-tagline::after {
   content: "";
   display: block;
-  width: 4rem;
-  height: 4rem;
-  margin: 0.3rem auto 0 auto;
+  width: 10rem;
+  height: 10rem;
+  margin: 5rem auto 0 auto;
 
   background: url("{{site.logo_url}}");
   background-size: contain;
