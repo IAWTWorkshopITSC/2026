@@ -138,6 +138,10 @@ ul.hand-list li::marker {
   margin-bottom: 0rem;
 }
 
+.project-name {
+  margin-bottom: 0.1rem;
+}
+
 .project-tagline::after {
   content: "";
   display: block;
