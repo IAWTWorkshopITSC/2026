@@ -17,8 +17,15 @@
 </div> -->
 
 <div class="header-with-logo">
-  <img src="vesuviostilizzatoexpanded.png" alt="Workshop Logo" class="workshop-logo">
+  <div class="logo-group">
+    <img src="vesuviostilizzatoexpanded.png"
+         alt="Workshop Logo"
+         class="workshop-logo">
 
+    <img src="IEEE-Logo-600-200x59.png"
+         alt="IEEE Logo"
+         class="ieee-logo">
+  </div>
   <div class="header-text">
     <h1>5th Workshop on Intelligent and Automated Waterway Transportation</h1>
     <h2>IEEE ITSC, Naples, Italy, September 15, 2026</h2>
