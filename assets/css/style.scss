@@ -126,11 +126,30 @@ ul.hand-list li::marker {
   flex-wrap: wrap;
 }
 
-/* Logo */
+/* Keep logos together */
+.logo-group {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+/* Workshop logo */
 .workshop-logo {
-  width: 120px;
+  width: 110px;
   height: auto;
 }
+
+/* IEEE logo */
+.ieee-logo {
+  width: 140px;
+  height: auto;
+
+  /* optional: white background if needed */
+  /* background: white;
+     padding: 6px;
+     border-radius: 6px; */
+}
+
 
 /* Text block */
 .header-text h1 {
@@ -149,13 +168,21 @@ ul.hand-list li::marker {
 
 /* Mobile */
 @media screen and (max-width: 700px) {
+
   .header-with-logo {
     flex-direction: column;
     text-align: center;
   }
 
+  .logo-group {
+    justify-content: center;
+  }
+
   .workshop-logo {
-    width: 90px;
+    width: 80px;
+  }
+
+  .ieee-logo {
+    width: 110px;
   }
 }
-
