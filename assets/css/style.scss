@@ -143,6 +143,11 @@ ul.hand-list li::marker {
   margin-top: 0;
 }
 
+.page-header {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+}
+
 .project-tagline::after {
   content: "";
   display: block;
