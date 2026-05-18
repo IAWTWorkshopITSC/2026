@@ -134,14 +134,14 @@ ul.hand-list li::marker {
 
 
 .project-tagline {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.1rem;
 }
 
 .project-tagline::after {
   content: "";
   display: block;
-  width: 1.5em;
-  height: 1.5em;
+  width: 4rem;
+  height: 4rem;
   margin: 0.3rem auto 0 auto;
 
   background: url("{{site.logo_url}}");
