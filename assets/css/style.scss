@@ -145,5 +145,7 @@ ul.hand-list li::marker {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
+    margin: 0.8rem auto 0 auto; /* <-- this centers it */
+
 }
 {% endif %}
