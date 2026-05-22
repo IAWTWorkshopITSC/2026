@@ -125,7 +125,7 @@ Please make sure to register for the ITSC Workshop Day in order to be able to pa
 * [Dr. Hanna Krasowski](https://hanna.krasowski.io/), University of California, Berkeley, CA, United States 
 * [Kathrin Donandt](https://www.uni-due.de/srs/person.php?Id=147), University of Duisburg-Essen & Federal Waterways Engineering and Research Institute, Germany
 * [Dr. Frédéric Etienne Kracht](https://www.linkedin.com/in/frederickracht), Development Center for Ship Technology and Transport Systems (DST), Germany
-* [Dr. Lars Andreas Lien Wennersberg](https://www.sintef.no/en/all-employees/employee/lars.andreas.wennersberg/), SINTEF, Norway
+* [Lars Andreas Lien Wennersberg](https://www.sintef.no/en/all-employees/employee/lars.andreas.wennersberg/), SINTEF, Norway
 
 
 ## Previous workshops
