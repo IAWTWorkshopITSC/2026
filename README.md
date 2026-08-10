@@ -71,7 +71,7 @@ in Naples, Italy, aims to foster technical and scientific exchange between acade
 
 <tr><td>13:00–14:00</td><td align="center" colspan="3"><em>Lunch break</em></td></tr> 
 
-<tr><td>14:00–14:05</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage <em>(cont.)<em></td>
+<tr><td>14:00–14:05</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage (cont.)</td>
 <td><a href="#goerlandt">Dr. Floris Goerlandt</a></td>
 <td>Dalhousie University, Canada</td></tr> 
 
