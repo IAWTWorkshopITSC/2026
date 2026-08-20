@@ -57,29 +57,25 @@ in Naples, Italy, aims to foster technical and scientific exchange between acade
 
 <tr><td>11:30–11:35</td><td align="center" colspan="3"><em>Opening</em></td></tr> 
 
-<tr><td>11:35–12:05</td><td>Automation of Transport Systems on Land and Waterways</td>
+<tr><td>11:35–12:00</td><td>Automation of Transport Systems on Land and Waterways</td>
 <td><a href="#schramm">Dr. Dieter Schramm</a></td>
 <td>University of Duisburg-Essen, Germany</td></tr> 
 
-<tr><td>12:05–12:35</td><td>Beyond Mobility: Intelligent Multimodal Transport Systems for Critical Energy Infrastructure</td>
+<tr><td>12:00–12:30</td><td>Beyond Mobility: Intelligent Multimodal Transport Systems for Critical Energy Infrastructure</td>
 <td><a href="#luebke">Michael Lübke</a></td>
 <td>Evos, Germany</td></tr> 
 
-<tr><td>12:35–13:00</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage</td>
+<tr><td>12:30–13:00</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage</td>
 <td><a href="#goerlandt">Dr. Floris Goerlandt</a></td>
 <td>Dalhousie University, Canada</td></tr> 
 
 <tr><td>13:00–14:00</td><td align="center" colspan="3"><em>Lunch break</em></td></tr> 
 
-<tr><td>14:00–14:05</td><td>Navigating Uncertainty: Safety Risk Modeling and Validation for Remote Pilotage (cont.)</td>
-<td><a href="#goerlandt">Dr. Floris Goerlandt</a></td>
-<td>Dalhousie University, Canada</td></tr> 
-
-<tr><td>14:05–14:35</td><td>A Data-Driven Approach to Quantify Safety and Ease of Navigation of Highly Automated Inland Waterway Vessels</td>
+<tr><td>14:00–14:30</td><td>A Data-Driven Approach to Quantify Safety and Ease of Navigation of Highly Automated Inland Waterway Vessels</td>
 <td><a href="#daubner">Jannis Daubner</a></td>
 <td>Federal Waterways Engineering and Research Institute, Germany</td></tr> 
 
-<tr><td>14:35–15:00</td><td align="center" colspan="3"><em>Discussion &amp; Closing</em></td></tr> 
+<tr><td>14:30–15:00</td><td align="center" colspan="3"><em>Discussion &amp; Closing</em></td></tr> 
 
 </tbody></table>
 
